@@ -162,3 +162,7 @@ a:active {
 iframe {
 	justify-content: center;
 }
+
+.img {
+	align-content: center;
+}
